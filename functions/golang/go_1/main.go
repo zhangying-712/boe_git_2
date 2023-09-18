@@ -33,5 +33,7 @@ func Handler(ctx context.Context, params *Params) (*Result, error) {
 
 	application.GetLogger(ctx).Infof("测试go部署")
 
+
+	
 	return &Result{}, nil
 }
