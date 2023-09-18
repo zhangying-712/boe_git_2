@@ -1,0 +1,17 @@
+{
+  "apiID": "package_e5d240__c__function_aadfbac33smcq",
+  "apiName": "go_1",
+  "label": {
+    "zh_CN": "go_1",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "isPublicAPI": false,
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
